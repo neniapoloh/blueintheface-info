@@ -2,6 +2,11 @@
   "info": [
     {
         "index": "",
+        "text": "CONTACT BAND",
+        "link": "mailto:blueintheface.band@gmail.com?subject=Contact%20Blueintheface"
+    },
+    {
+        "index": "",
         "text": "BOOKING",
         "link": "mailto:blueintheface.band@gmail.com?subject=Book%20Blueintheface"
     },
