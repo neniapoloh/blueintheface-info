@@ -5,8 +5,8 @@ App links
  - Play Store: [https://play.google.com/store/apps/details?id=com.hskr](https://play.google.com/store/apps/details?id=com.hskr)
  
 
-Promokoodin lunastaminen
-========================
+Apple App Store -promokoodin lunastaminen
+=========================================
 
 (scroll down for instructions in english)
 
@@ -20,8 +20,8 @@ Promokoodin lunastaminen
 8. Valitse "Restore previous purchase"
 9. Albumi pitäisi nyt olla kuunneltavissa
 
-Redeeming Apple promo code
-==========================
+Redeeming Apple App Store promo code
+====================================
 
 1. Select "App Store" in your phone
 2. Scroll to bottom and select "Redeem"
