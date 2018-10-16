@@ -11,10 +11,11 @@ Apple App Store -promokoodin lunastaminen
 (scroll down for instructions in english)
 
 1. Valitse puhelimestasi "App Store"
-2. Scrollaa ihan sivun loppuun ja valitse "Redeem"
+2. Scrollaa ihan sivun loppuun ja valitse "Redeem" (suom. "Lunasta")
 3. Jos kirjautumista pyydetään, kirjaudu Apple-tunnuksillasi Storeen
-4. Kirjoita koodi. Jos koodisi on näkyvillä erillisellä tietokoneella, voit käyttää kameraa, muussa tapauksessa kirjoita tai pasteta se "manuaalisesti"
-5. Mene "Herttoniemen Savuttomat"-applikaatioon (asenna se tässä vaiheessa jos sitä ei jo ollut)
+4. Kirjoita koodi. Jos koodisi on näkyvillä erillisellä tietokoneella, voit käyttää kameraa, muussa tapauksessa kirjoita tai pasteta se "käsin"
+5. Saat ilmoituksen onnistuneesta lunastamisesta
+5. Mene "Herttoniemen Savuttomat"-applikaatioon "Avaa"-napista tai asenna se tässä vaiheessa jos sitä ei ollut asennettuna ennestään
 6. Valitse albumi, johon sinulla on promokoodi
 7. Valitse oikealta ylhäältä menu (nappi jossa kolme vaakapalkkia)
 8. Valitse "Restore previous purchases"
